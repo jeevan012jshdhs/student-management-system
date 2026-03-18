@@ -27,6 +27,10 @@ A full-stack web application built using Django, MySQL, and Bootstrap to manage 
    python manage.py migrate
 6. Start server:
    python manage.py runserver
+## Screenshots
+
+![Home](screenshots/Project1_pic1.jpg)
+![Form](screenshots/Project1_pic4.jpg)
 
 ## Author
 Jeevan N R
