@@ -44,17 +44,17 @@ A full-stack web application built using Django, MySQL, and Bootstrap to manage 
   <img src="screenshots/Student_detail.jpg" width="600"/>
 </p>
 
-###Delete Student
+### Delete Student
 <p align="center">
   <img src="screenshots/Delete_student.jpg" width="600"/>
 </p>
 
-###Data Base
+### Data Base
 <p align="center">
-  <img src="screenshots/DataBAse.jpg" width="600"/>
+  <img src="screenshots/DataBase.jpg" width="600"/>
 </p>
 
-###Admin
+### Admin
 <p align="center">
   <img src="screenshots/Admin.jpg" width="600"/>
 </p>
