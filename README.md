@@ -31,23 +31,33 @@ A full-stack web application built using Django, MySQL, and Bootstrap to manage 
 
 ### Home Page
 <p align="center">
-  <img src="screenshots/Home.jpg" width="800"/>
+  <img src="screenshots/Home.jpg" width="600"/>
 </p>
 
 ### Add Student
-![Add Student](screenshots/Add_student.jpg)
+<p align="center">
+  <img src="screenshots/Add_student.jpg" width="600"/>
+</p>
 
 ### Student Detail
-![Detail](screenshots/Student_detail.jpg)
+<p align="center">
+  <img src="screenshots/Student_detail.jpg" width="600"/>
+</p>
 
 ###Delete Student
-![Detail](screenshots/Delete_student.jpg)
+<p align="center">
+  <img src="screenshots/Delete_student.jpg" width="600"/>
+</p>
 
 ###Data Base
-![Detail](screenshots/DataBase.jpg)
+<p align="center">
+  <img src="screenshots/DataBAse.jpg" width="600"/>
+</p>
 
 ###Admin
-![Detail](screenshots/Admin.jpg)
+<p align="center">
+  <img src="screenshots/Admin.jpg" width="600"/>
+</p>
 
 ## Author
 Jeevan N R
