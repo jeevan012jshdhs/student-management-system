@@ -30,7 +30,9 @@ A full-stack web application built using Django, MySQL, and Bootstrap to manage 
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/Home.jpg)
+<p align="center">
+  <img src="screenshots/Home.jpg" width="800"/>
+</p>
 
 ### Add Student
 ![Add Student](screenshots/Add_student.jpg)
